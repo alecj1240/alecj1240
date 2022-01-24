@@ -6,6 +6,8 @@ I'm currently diving into everything `web3`.
 
 I'm learning about smart contracts, DAOs, Defi, DEXs, NFTs, etc. 👨‍💻
 
+Also trying to learn more about Stacks (Bitcoin's smart contract platform)
+
 I'm studying at UBC (Computer Science and Business) 🇨🇦
 
 📫 Feel free to send me an email `['alecjones', '@', 'hey.com']` 
