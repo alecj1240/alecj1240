@@ -1,0 +1,11 @@
+{
+  "name": "alecj-site",
+  "version": "1.0.0",
+  "description": "Personal website with blog",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "markdown-it": "^14.0.0"
+  }
+}
